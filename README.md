@@ -5,7 +5,7 @@ compares three route options, checks the forecast at every checkpoint **at the
 time the truck will actually be there**, classifies the risk using the
 assessment's weather and load rules, and recommends a route.
 
-**Live demo:** https://weather-aware-truck-routing-fnis.onrender.com/ · **Walkthrough video:** _add your Loom link here_
+**Live demo:** https://weather-aware-truck-routing-fnis.onrender.com
 
 > Hosted on Render's free plan: if nobody has opened it for 15 minutes, the first load takes about a minute while it wakes up.
 
